@@ -1,2 +1,2 @@
 # Final Assignments
-### Here we've few cousera coruses Final Assignments.
+### Final Assignments of courses I've completed
