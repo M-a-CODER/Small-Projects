@@ -1,2 +1,2 @@
 # IBM Data Science Professional course
-### Final Assignemnts
+### Final Assignemnt
