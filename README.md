@@ -1,1 +1,1 @@
-# Coursera Courses
+# Small projects
